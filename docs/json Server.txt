@@ -1,0 +1,24 @@
+-- Entrar na pasta ionic no C:
+cd/ionic
+
+--- Se a pasta não existir, criar ela:
+cd/
+mkdir ionic
+cd \ionic
+
+-----------------------------------------------
+--Criar um projeto com NodeJS
+mkdir <nome da pasta, sem espaço>
+mkdir back-end		// Criar a pasta chamada back-end
+cd back-end			// Entrar na pasta que criamos
+npm init -y			// Inicializa o projeto do Node com tudo Padão
+
+-- Instalar o JSON SERVER
+npm i json-server
+
+-- Criar um arquivo <nome>.json e escrever a estrutura do BD
+-- Configurar o package.json com o start do server na propriedade "scripts"
+	"start": "json-server --watch bd.json",
+	
+-- Para rodar o JSON SERVER utilizamos o comando criado acima:
+npm start

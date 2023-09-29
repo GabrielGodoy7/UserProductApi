@@ -1,0 +1,64 @@
+{
+  "usuarios": [
+    {
+      "nome": "Albergue",
+      "email": "alberguinho@etec.com",
+      "senha": "1223",
+      "id": 1
+    },
+    {
+      "nome": "Pedrin",
+      "email": "pedrin@delas.etec.com",
+      "senha": "1234",
+      "id": 2
+    },
+    {
+      "nome": "Gabriel",
+      "email": "gabriel@delas.etec.com",
+      "senha": "79345",
+      "id": 3
+    },
+    {
+      "nome": "Arexu",
+      "email": "Arexu@REIEtec.UOooooo.com",
+      "senha": "1234567",
+      "id": 4
+    },
+    {
+      "nome": "Reinaldinho Leptosplove",
+      "email": "reinardo@Leptosplov.com",
+      "senha": "123",
+      "id": 5
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Teclado Kumara Pró",
+      "descricao": "O Kumara Pro da Redragon é um teclado mecânico compacto e durável, com teclas retroiluminadas e interruptores mecânicos para uma experiência de digitação tátil e sonora.",
+      "validade": "26/12/2030",
+      "valor": "340",
+      "id": 1
+    },
+    {
+      "nome": "Nescau",
+      "descricao": "Achocolatado Top",
+      "validade": "2023/11/29",
+      "valor": "15",
+      "id": 2
+    },
+    {
+      "nome": "Plástico",
+      "descricao": "Plástico Feito em industria lorebs",
+      "validade": "2320",
+      "valor": "40",
+      "id": 3
+    },
+    {
+      "nome": "Pudin Doce de Leite",
+      "descricao": "Pudim Doce de Leite Cremoso",
+      "validade": "2023/09/28",
+      "valor": "18.99",
+      "id": 4
+    }
+  ]
+}
